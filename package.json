@@ -1,0 +1,21 @@
+{
+  "name": "portfolioSite",
+  "version": "1.0.0",
+  "description": "Simple portfolio site",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lntelliMed/portfolio.git"
+  },
+  "keywords": [],
+  "author": "Sam Alsmadi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lntelliMed/portfolio/issues"
+  },
+  "homepage": "https://github.com/lntelliMed/portfolio#readme",
+  "dependencies": {}
+}
